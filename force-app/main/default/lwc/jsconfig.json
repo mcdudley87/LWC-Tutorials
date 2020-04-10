@@ -23,6 +23,9 @@
             ],
             "c/helloForEach": [
                 "helloForEach/helloForEach.js"
+            ],
+            "c/simpleInterestCalculator": [
+                "simpleInterestCalculator/simpleInterestCalculator.js"
             ]
         }
     },

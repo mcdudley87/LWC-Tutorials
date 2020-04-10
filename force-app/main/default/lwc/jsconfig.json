@@ -32,6 +32,9 @@
             ],
             "c/todoItem": [
                 "todoItem/todoItem.js"
+            ],
+            "c/privateComponent": [
+                "privateComponent/privateComponent.js"
             ]
         }
     },

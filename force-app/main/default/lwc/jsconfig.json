@@ -35,6 +35,12 @@
             ],
             "c/privateComponent": [
                 "privateComponent/privateComponent.js"
+            ],
+            "c/employeeDetail": [
+                "employeeDetail/employeeDetail.js"
+            ],
+            "c/employeeDetails": [
+                "employeeDetails/employeeDetails.js"
             ]
         }
     },

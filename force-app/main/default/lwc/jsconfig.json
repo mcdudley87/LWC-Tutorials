@@ -26,6 +26,9 @@
             ],
             "c/simpleInterestCalculator": [
                 "simpleInterestCalculator/simpleInterestCalculator.js"
+            ],
+            "c/shapeCalculator": [
+                "shapeCalculator/shapeCalculator.js"
             ]
         }
     },

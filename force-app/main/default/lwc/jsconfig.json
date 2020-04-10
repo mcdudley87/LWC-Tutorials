@@ -29,6 +29,9 @@
             ],
             "c/shapeCalculator": [
                 "shapeCalculator/shapeCalculator.js"
+            ],
+            "c/todoItem": [
+                "todoItem/todoItem.js"
             ]
         }
     },

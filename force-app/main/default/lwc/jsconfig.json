@@ -41,6 +41,9 @@
             ],
             "c/employeeDetails": [
                 "employeeDetails/employeeDetails.js"
+            ],
+            "c/bool": [
+                "bool/bool.js"
             ]
         }
     },

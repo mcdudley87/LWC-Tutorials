@@ -3,8 +3,20 @@
         "experimentalDecorators": true,
         "baseUrl": ".",
         "paths": {
+            "c/bool": [
+                "bool/bool.js"
+            ],
+            "c/boolParent": [
+                "boolParent/boolParent.js"
+            ],
+            "c/employeeDetail": [
+                "employeeDetail/employeeDetail.js"
+            ],
             "c/employeeDetailExample": [
                 "employeeDetailExample/employeeDetailExample.js"
+            ],
+            "c/employeeDetails": [
+                "employeeDetails/employeeDetails.js"
             ],
             "c/employeeInfo": [
                 "employeeInfo/employeeInfo.js"
@@ -15,35 +27,35 @@
             "c/firstLightningExample": [
                 "firstLightningExample/firstLightningExample.js"
             ],
+            "c/helloForEach": [
+                "helloForEach/helloForEach.js"
+            ],
             "c/helloWorld": [
                 "helloWorld/helloWorld.js"
             ],
             "c/ifElseExample": [
                 "ifElseExample/ifElseExample.js"
             ],
-            "c/helloForEach": [
-                "helloForEach/helloForEach.js"
-            ],
-            "c/simpleInterestCalculator": [
-                "simpleInterestCalculator/simpleInterestCalculator.js"
+            "c/privateComponent": [
+                "privateComponent/privateComponent.js"
             ],
             "c/shapeCalculator": [
                 "shapeCalculator/shapeCalculator.js"
             ],
+            "c/simpleInterestCalculator": [
+                "simpleInterestCalculator/simpleInterestCalculator.js"
+            ],
+            "c/todoApp": [
+                "todoApp/todoApp.js"
+            ],
             "c/todoItem": [
                 "todoItem/todoItem.js"
             ],
-            "c/privateComponent": [
-                "privateComponent/privateComponent.js"
+            "c/childComp": [
+                "childComp/childComp.js"
             ],
-            "c/employeeDetail": [
-                "employeeDetail/employeeDetail.js"
-            ],
-            "c/employeeDetails": [
-                "employeeDetails/employeeDetails.js"
-            ],
-            "c/bool": [
-                "bool/bool.js"
+            "c/parentComp": [
+                "parentComp/parentComp.js"
             ]
         }
     },

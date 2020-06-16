@@ -56,6 +56,12 @@
             ],
             "c/parentComp": [
                 "parentComp/parentComp.js"
+            ],
+            "c/childComponent2": [
+                "childComponent2/childComponent2.js"
+            ],
+            "c/parentComponent2": [
+                "parentComponent2/parentComponent2.js"
             ]
         }
     },

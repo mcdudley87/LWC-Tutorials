@@ -1,0 +1,36 @@
+<aura:component implements="forceCommunity:availableForAllPageTypes" access="global" >
+    
+    <aura:handler name="init" value="{!this}" action="{!c.init}" />
+    
+    <footer>                
+        <div class="slds-grid slds-wrap slds-p-around_x-large">
+            <div class="slds-col slds-size_1-of-1 slds-m-bottom_xx-large">
+                <a class="topOfPage" onclick="{!c.topOfPage}" href="javascript:void(0);" title="Scroll to the top of the page">
+                    <aura:unescapedHtml aura:id="chevronUp"/>
+                    <br/>
+                    <div>To Top</div>
+                </a>
+            </div>
+            <div class="slds-col slds-size_1-of-2">
+                <span>&copy; Phillips 66 Company. All rights reserved. <a href="https://www.phillips66.com/terms-conditions">Terms and Conditions</a> and <a href="https://www.phillips66.com/privacy-statement">Privacy Statement</a>. <a href="https://www.phillips66.com/Documents/california-transparency-supply-chains-disclosure.pdf">California Transparency in Supply Chains Disclosure</a>.</span>
+            </div>
+            <div class="slds-col slds-size_1-of-2">
+                <div class="slds-float_right">
+                <a data-testid="Facebook" class="slds-p-horizontal_x-small" href="https://www.facebook.com/Phillips66Co" rel="noopener noreferrer" target="_blank">
+                    <aura:unescapedHtml aura:id="facebook"/>
+                </a>
+                <a data-testid="Twitter" class="slds-p-horizontal_x-small" href="https://www.twitter.com/Phillips66Co" rel="noopener noreferrer" target="_blank">
+                    <aura:unescapedHtml aura:id="twitter"/>
+                </a>
+                <a data-testid="YouTube" class="slds-p-horizontal_x-small" href="https://www.youtube.com/Phillips66Co" rel="noopener noreferrer" target="_blank">
+                    <aura:unescapedHtml aura:id="youtube"/>
+                </a>
+                <a data-testid="Instagram" class="slds-p-horizontal_x-small" href="https://www.instagram.com/phillips66co" rel="noopener noreferrer" target="_blank">
+                    <aura:unescapedHtml aura:id="instagram"/>
+                </a>
+                    </div>
+            </div>
+        </div>
+    </footer>
+    
+</aura:component>

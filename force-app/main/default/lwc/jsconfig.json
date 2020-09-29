@@ -9,6 +9,15 @@
             "c/boolParent": [
                 "boolParent/boolParent.js"
             ],
+            "c/canvasSubscriber": [
+                "canvasSubscriber/canvasSubscriber.js"
+            ],
+            "c/childComp": [
+                "childComp/childComp.js"
+            ],
+            "c/childComponent2": [
+                "childComponent2/childComponent2.js"
+            ],
             "c/employeeDetail": [
                 "employeeDetail/employeeDetail.js"
             ],
@@ -36,8 +45,20 @@
             "c/ifElseExample": [
                 "ifElseExample/ifElseExample.js"
             ],
+            "c/palettePublisher": [
+                "palettePublisher/palettePublisher.js"
+            ],
+            "c/parentComp": [
+                "parentComp/parentComp.js"
+            ],
+            "c/parentComponent2": [
+                "parentComponent2/parentComponent2.js"
+            ],
             "c/privateComponent": [
                 "privateComponent/privateComponent.js"
+            ],
+            "c/pubsub": [
+                "pubsub/pubsub.js"
             ],
             "c/shapeCalculator": [
                 "shapeCalculator/shapeCalculator.js"
@@ -50,18 +71,6 @@
             ],
             "c/todoItem": [
                 "todoItem/todoItem.js"
-            ],
-            "c/childComp": [
-                "childComp/childComp.js"
-            ],
-            "c/parentComp": [
-                "parentComp/parentComp.js"
-            ],
-            "c/childComponent2": [
-                "childComponent2/childComponent2.js"
-            ],
-            "c/parentComponent2": [
-                "parentComponent2/parentComponent2.js"
             ]
         }
     },
